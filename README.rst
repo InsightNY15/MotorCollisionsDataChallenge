@@ -7,6 +7,10 @@ Challenge
 ---------
 Given a data set of motor vehicle collisions in NYC over three years, predict how dangerous a given place is at a given time.
 
+Data set
+--------
+The `data set <https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95>`_ of motor vehicle collisions comes from NYC's open data initiative. Train your model on the data from 2012-2014. The test set is the data from 2015. 
+
 Deliverables
 ------------
 A python script that takes as input a hidden test set and returns
