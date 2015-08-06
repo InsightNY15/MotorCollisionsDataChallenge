@@ -4,3 +4,15 @@ Files for the motor collisions data challenge
 Challenge
 ---------
 Given a data set of motor vehicle collisions in NYC over three years, predict how dangerous a given place is at a given time.
+
+Deliverables
+------------
+A python script that takes as input a hidden test set and returns
+1. predictions of danger for each and
+2. an evaluation of the predictions (in your chosen metric)
+
+Make a folder with your name in the repo and drop your script in it.
+
+Meeting
+-------
+On Tuesday morning 10am we'll gather to test out the scripts, and describe our models. Feel free to add to your folder anything that helps explain your model and code like ipython notebooks, plots, documentation, etc
